@@ -8,13 +8,14 @@
   font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
   font-size: 18px;  
   background: #777;
+  color: grey;
 }
 
 /* INSTRUCTOR: Here is the filled out version of the float activity */
 
 body {
   line-height: 32px;  
-  color: #ebebeb;
+//  color: #ebebeb;
 }
 
 div {
@@ -59,6 +60,7 @@ article {
 
 h1, p {  
   background-color: white;
+  color: grey;
   margin-top: 5%;
   margin-left: 5%;
   margin-right: 5%;
